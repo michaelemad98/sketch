@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "394408968617",
+    "project_id": "sketch-ca133",
+    "storage_bucket": "sketch-ca133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394408968617:android:c60eaad34fe6c7521484b8",
+        "android_client_info": {
+          "package_name": "com.michtechno.sketch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394408968617-g28kr2d784iuq6poe06osi8oh25q081e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michtechno.sketch",
+            "certificate_hash": "4ddb537de97788d6a53d08be8e94f8aa96ee3f6c"
+          }
+        },
+        {
+          "client_id": "394408968617-7o6dqjgpfq2lhpgna0jhl1rcnfgqcseb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_E8UEuM4t19FAPEr1UJbyWcYiFn3AZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394408968617-7o6dqjgpfq2lhpgna0jhl1rcnfgqcseb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394408968617-kvic884t3fdgfak19slcmvqimvb99qno.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.Sketch"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394408968617:android:3ebbb7f1cc15c1de1484b8",
+        "android_client_info": {
+          "package_name": "io.Sketch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394408968617-7o6dqjgpfq2lhpgna0jhl1rcnfgqcseb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy_E8UEuM4t19FAPEr1UJbyWcYiFn3AZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394408968617-7o6dqjgpfq2lhpgna0jhl1rcnfgqcseb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "394408968617-kvic884t3fdgfak19slcmvqimvb99qno.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.Sketch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
